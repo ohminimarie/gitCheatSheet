@@ -1,4 +1,4 @@
-<h2> Cheat Sheet </h2>
+##Cheat Sheet
 
 Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
