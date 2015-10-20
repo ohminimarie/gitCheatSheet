@@ -1,4 +1,4 @@
-##Cheat Sheet
+## Cheat Sheet
 
 Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
@@ -19,10 +19,10 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 `$ git log --oneline --decorate --color --graph --all` - __Fill Me Out__
 
-`$ git log -p [filename]` __Fill Me Out__
+`$ git log -p [filename]` - Shows commit logs and generates patches of filename
 
 #### Stage files to commit
-`$ git add <filename>` - __Fill Me Out__
+`$ git add <filename>` - Adds file contents to the index
 
 `$ git add -A` - __Fill Me Out__
 
